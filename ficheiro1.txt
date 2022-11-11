@@ -3,3 +3,4 @@ Este é o exemplo de um ficheio de texto
 Estou a fazer atualizações ao ficheiro
 
 alterações efetuadas no novo branch
+ALTERAÇÃO EM MASTER
